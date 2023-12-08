@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Jiner Qi, I will update this readme shortly.....
 
 <!--
 **JinerQi777/JinerQi777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
