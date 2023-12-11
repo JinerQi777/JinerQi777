@@ -100,9 +100,6 @@
 
 <br/>
 
-## Top Open Source -
-
-
 <br/>
 <hr/>
 <br/>
