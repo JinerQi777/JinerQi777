@@ -24,7 +24,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Jiner Qi</a></b>
+                <b><a target="_blank" href="https://jinerqi.com">Jiner Qi</a></b>
         </samp>
 </h3>
 
@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
+ <a href="https://jinerqi.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="jinerqi" />
  </a>
  <a href="https://www.linkedin.com/in/jiner-qi/" target="_blank">
@@ -52,7 +52,7 @@
  <a href="https://twitter.com/alsiam_dev" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/alsiam_dev" target="_blank">
+ <a href="https://www.instagram.com/jiner.qi/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="jinerqi" />
  </a> 
  <a href="https://facebook.com/alsiam.world" target="_blank">
